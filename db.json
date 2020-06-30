@@ -1,0 +1,689 @@
+{
+  "events": [
+    {
+      "id": 5928101,
+      "user": {
+        "id": "abc123",
+        "name": "Nyllanth"
+      },
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Cat Cabaret",
+      "description": "Yay felines!",
+      "location": "Meow Town",
+      "date": "2019-01-03T21:54:00.000Z",
+      "time": "2:00",
+      "foto": "https://i.imgur.com/pKMX0ZV.jpg",
+      "attendees": []
+    },
+    {
+      "id": 8419988,
+      "user": {
+        "id": "hyt845",
+        "name": "Javier"
+      },
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Kitty Cluster",
+      "description": "Yay cats!",
+      "location": "Catlandia",
+      "date": "2019-01-31T22:09:00.000Z",
+      "time": "7:00",
+      "foto": "https://i.imgur.com/FKhUFXu.jpg",
+      "attendees": []
+    },
+    {
+      "id": 4582797,
+      "user": {
+        "id": "def456",
+        "name": "Genesys"
+      },
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Puppy Parade",
+      "description": "Yay pups!",
+      "location": "Puptown ",
+      "date": "2019-02-02T23:27:00.000Z",
+      "time": "1:00",
+      "foto": "https://i.imgur.com/uG9eYGe.jpg",
+      "attendees": []
+    },
+    {
+      "id": 8251829,
+      "user": {
+        "id": "abc123",
+        "name": "Javier"
+      },
+      "category": "sustaninability",
+      "organizer": {
+        "id": "abc123",
+        "name": "Javier"
+      },
+      "title": "Javier",
+      "description": "pepe",
+      "location": "",
+      "date": "",
+      "time": "2:00",
+      "foto": "",
+      "attendees": []
+    },
+    {
+      "id": 1490020,
+      "user": {
+        "id": "abc123",
+        "name": "Javier"
+      },
+      "category": "housing",
+      "organizer": {
+        "id": "abc123",
+        "name": "Javier"
+      },
+      "title": "Javier",
+      "description": "Javier descripcion",
+      "location": "",
+      "date": "",
+      "time": "22:00",
+      "foto": "",
+      "attendees": []
+    },
+    {
+      "id": 988767,
+      "user": {
+        "id": "abc123",
+        "name": "Javier"
+      },
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "Javier"
+      },
+      "title": "Javier",
+      "description": "javier jasdaskasodk",
+      "location": "",
+      "date": "2020-04-09T16:45:00.000Z",
+      "time": "21:00",
+      "foto": "",
+      "attendees": []
+    },
+    {
+      "id": 5966972,
+      "user": {
+        "id": "abc123",
+        "name": "Javier"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Javier"
+      },
+      "title": "Tiitulin",
+      "description": "Descripcion desde esta vrg",
+      "location": "",
+      "date": "",
+      "time": "",
+      "foto": "https://i.imgur.com/Z4xaU65.jpg",
+      "attendees": []
+    },
+    {
+      "id": 590303,
+      "user": {
+        "id": "abc123",
+        "name": "Javier"
+      },
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Javier"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "foto": "",
+      "attendees": []
+    },
+    {
+      "id": 1956324,
+      "user": {
+        "id": "abc123",
+        "name": "Javier"
+      },
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Javier"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "foto": "",
+      "attendees": []
+    },
+    {
+      "id": 2941119,
+      "user": {
+        "id": "abc123",
+        "name": "Javier"
+      },
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Javier"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "foto": "",
+      "attendees": []
+    },
+    {
+      "id": 2897050,
+      "user": {
+        "id": "abc123",
+        "name": "Javier"
+      },
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Javier"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "foto": "",
+      "attendees": []
+    },
+    {
+      "id": 6567425,
+      "user": {
+        "id": "abc123",
+        "name": "Javier"
+      },
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Javier"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "foto": "",
+      "attendees": []
+    },
+    {
+      "id": 3694617,
+      "user": {
+        "id": "abc123",
+        "name": "Javier"
+      },
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Javier"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "foto": "",
+      "attendees": []
+    },
+    {
+      "id": 9853232,
+      "user": {
+        "id": "abc123",
+        "name": "Javier"
+      },
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Javier"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "foto": "",
+      "attendees": []
+    },
+    {
+      "id": 4996095,
+      "user": {
+        "id": "abc123",
+        "name": "Javier"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Javier"
+      },
+      "title": "Esta es mi ultima Carta",
+      "description": "Dimelo broooo",
+      "location": "",
+      "date": "",
+      "time": "",
+      "foto": "https://i.imgur.com/KbuL6ax.jpeg",
+      "attendees": []
+    },
+    {
+      "id": 138698,
+      "user": {
+        "id": "",
+        "name": ""
+      },
+      "category": "",
+      "organizer": {
+        "id": "",
+        "name": ""
+      },
+      "title": "Dimelo",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "foto": "",
+      "attendees": []
+    },
+    {
+      "id": 5549190,
+      "user": {
+        "id": "",
+        "name": ""
+      },
+      "category": "",
+      "organizer": {
+        "id": "",
+        "name": ""
+      },
+      "title": "titulo",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "foto": "",
+      "attendees": []
+    },
+    {
+      "id": 3559109,
+      "user": {
+        "id": "abc123",
+        "name": "Javier Arcila"
+      },
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "Javier Arcila"
+      },
+      "title": "Tutilin",
+      "description": "la descripcion",
+      "location": "",
+      "date": "",
+      "time": "",
+      "foto": "",
+      "attendees": []
+    },
+    {
+      "id": 4329575,
+      "user": {
+        "id": "abc123",
+        "name": "Javier Arcila"
+      },
+      "category": "housing",
+      "organizer": {
+        "id": "abc123",
+        "name": "Javier Arcila"
+      },
+      "title": "asd",
+      "description": "bro",
+      "location": "",
+      "date": "",
+      "time": "",
+      "foto": "",
+      "attendees": []
+    },
+    {
+      "id": 847870,
+      "user": {
+        "id": "abc123",
+        "name": "Javier Arcila"
+      },
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Javier Arcila"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "foto": "",
+      "attendees": []
+    },
+    {
+      "id": 7830716,
+      "user": {
+        "id": "abc123",
+        "name": "Javier Arcila"
+      },
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Javier Arcila"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "foto": "",
+      "attendees": []
+    },
+    {
+      "id": 9641532,
+      "user": {
+        "id": "abc123",
+        "name": "Javier Arcila"
+      },
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Javier Arcila"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "foto": "",
+      "attendees": []
+    },
+    {
+      "id": 8192894,
+      "user": {
+        "id": "abc123",
+        "name": "Javier Arcila"
+      },
+      "category": "housing",
+      "organizer": {
+        "id": "abc123",
+        "name": "Javier Arcila"
+      },
+      "title": "gdfg",
+      "description": "fghfghfgh",
+      "location": "",
+      "date": "",
+      "time": "",
+      "foto": "",
+      "attendees": []
+    },
+    {
+      "id": 644668,
+      "user": {
+        "id": "abc123",
+        "name": "Javier Arcila"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Javier Arcila"
+      },
+      "title": "Bro",
+      "description": "Dimelo bro",
+      "location": "",
+      "date": "",
+      "time": "",
+      "foto": "https://i.imgur.com/UiW7VDH.jpeg",
+      "attendees": []
+    },
+    {
+      "id": 4563713,
+      "user": {
+        "id": "abc123",
+        "name": "Javier Arcila"
+      },
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "Javier Arcila"
+      },
+      "title": "Titulin",
+      "description": "Jaja funciona",
+      "location": "",
+      "date": "",
+      "time": "",
+      "foto": "",
+      "attendees": []
+    },
+    {
+      "id": 1118170,
+      "user": {
+        "id": "abc123",
+        "name": "Javier Arcila"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Javier Arcila"
+      },
+      "title": "Jabibi",
+      "description": "asdasd",
+      "location": "",
+      "date": "",
+      "time": "",
+      "foto": "",
+      "attendees": []
+    },
+    {
+      "id": 1157638,
+      "user": {
+        "id": "abc123",
+        "name": "Javier Arcila"
+      },
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "Javier Arcila"
+      },
+      "title": "asd",
+      "description": "asdasd",
+      "location": "",
+      "date": "",
+      "time": "",
+      "foto": "",
+      "attendees": []
+    },
+    {
+      "id": 8099096,
+      "user": {
+        "id": "abc123",
+        "name": "Javier Arcila"
+      },
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Javier Arcila"
+      },
+      "title": "Javier",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "foto": "https://cdn.icon-icons.com/icons2/1154/PNG/512/1486564400-account_81513.png",
+      "attendees": []
+    },
+    {
+      "id": 4852629,
+      "user": {
+        "id": "abc123",
+        "name": "Javier Arcila"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Javier Arcila"
+      },
+      "title": "Pepe",
+      "description": "La descripcion ultima\n",
+      "location": "",
+      "date": "",
+      "time": "",
+      "foto": "https://cdn.icon-icons.com/icons2/1154/PNG/512/1486564400-account_81513.png",
+      "attendees": []
+    },
+    {
+      "id": 3547357,
+      "user": {
+        "id": "abc123",
+        "name": "Javier Arcila"
+      },
+      "category": "community",
+      "organizer": {
+        "id": "abc123",
+        "name": "Javier Arcila"
+      },
+      "title": "JAJA",
+      "description": "asdas",
+      "location": "",
+      "date": "",
+      "time": "",
+      "foto": "https://cdn.icon-icons.com/icons2/1154/PNG/512/1486564400-account_81513.png",
+      "attendees": []
+    },
+    {
+      "id": 8468925,
+      "user": {
+        "id": "abc123",
+        "name": "Javier Arcila"
+      },
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "Javier Arcila"
+      },
+      "title": "jaja",
+      "description": "asdasd",
+      "location": "",
+      "date": "",
+      "time": "",
+      "foto": "https://cdn.icon-icons.com/icons2/1154/PNG/512/1486564400-account_81513.png",
+      "attendees": []
+    },
+    {
+      "id": 9205690,
+      "user": {
+        "id": "abc123",
+        "name": "Javier Arcila"
+      },
+      "category": "food",
+      "organizer": {
+        "id": "abc123",
+        "name": "Javier Arcila"
+      },
+      "title": "ultimo",
+      "description": "ultimo",
+      "location": "",
+      "date": "",
+      "time": "",
+      "foto": "https://cdn.icon-icons.com/icons2/1154/PNG/512/1486564400-account_81513.png",
+      "attendees": []
+    },
+    {
+      "id": 2612006,
+      "user": {
+        "id": "abc123",
+        "name": "Javier Arcila"
+      },
+      "category": "sustaninability",
+      "organizer": {
+        "id": "abc123",
+        "name": "Javier Arcila"
+      },
+      "title": "Jajaja",
+      "description": "Jajaja",
+      "location": "",
+      "date": "1999-07-22T18:52:00.000Z",
+      "time": "",
+      "foto": "https://cdn.icon-icons.com/icons2/1154/PNG/512/1486564400-account_81513.png",
+      "attendees": []
+    },
+    {
+      "id": 4669708,
+      "user": {
+        "id": "abc123",
+        "name": "Javier Arcila"
+      },
+      "category": "community",
+      "organizer": {
+        "id": "abc123",
+        "name": "Javier Arcila"
+      },
+      "title": "titulo",
+      "description": "descripcion",
+      "location": "",
+      "date": "1999-07-22T15:04:00.000Z",
+      "time": "",
+      "foto": "https://cdn.icon-icons.com/icons2/1154/PNG/512/1486564400-account_81513.png",
+      "attendees": []
+    },
+    {
+      "id": 8733594,
+      "user": "Javier",
+      "category": "education",
+      "organizer": {
+        "id": "abc123",
+        "name": "Javier Arcila"
+      },
+      "title": "Titulo",
+      "description": "Descripcion",
+      "location": "",
+      "date": "2020-05-22T15:25:00.000Z",
+      "time": "10:00",
+      "foto": "https://cdn.icon-icons.com/icons2/1154/PNG/512/1486564400-account_81513.png",
+      "attendees": []
+    },
+    {
+      "id": 6112146,
+      "user": "",
+      "category": "",
+      "organizer": {
+        "id": "abc123",
+        "name": "Javier Arcila"
+      },
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "2020-05-22T15:49:00.000Z",
+      "time": "",
+      "foto": "https://cdn.icon-icons.com/icons2/1154/PNG/512/1486564400-account_81513.png",
+      "attendees": []
+    },
+    {
+      "id": 9688177,
+      "user": "asdasd",
+      "category": "housing",
+      "organizer": {
+        "id": "abc123",
+        "name": "Javier Arcila"
+      },
+      "title": "asdas",
+      "description": "asdasd",
+      "location": "",
+      "date": "2020-05-21T15:36:00.000Z",
+      "time": "16:00",
+      "foto": "https://cdn.icon-icons.com/icons2/1154/PNG/512/1486564400-account_81513.png",
+      "attendees": []
+    }
+  ]
+}
